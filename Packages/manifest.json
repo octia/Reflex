@@ -7,13 +7,10 @@
     "com.unity.test-framework": "2.0.1-exp.2",
     "com.unity.ugui": "2.5.0",
     "jp.hadashikick.vcontainer": "https://github.com/hadashiA/VContainer.git?path=/VContainer/Assets/VContainer/#1.18.0",
-    "com.unity.modules.adaptiveperformance": "1.0.0",
     "com.unity.modules.animation": "1.0.0",
     "com.unity.modules.audio": "1.0.0",
     "com.unity.modules.particlesystem": "1.0.0",
     "com.unity.modules.physics": "1.0.0",
-    "com.unity.modules.physicscore2d": "1.0.0",
-    "com.unity.modules.ui": "1.0.0",
-    "com.unity.modules.vectorgraphics": "1.0.0"
+    "com.unity.modules.ui": "1.0.0"
   }
 }
